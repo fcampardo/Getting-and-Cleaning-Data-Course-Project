@@ -31,4 +31,4 @@ Use gsub function for pattern replacement to clean up the data labels.
 
 ## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 A new data set is produced with only the average value of each variable for each activity and subject.
-Then all the new data is saved in .csv file called tidy.csv
+Then all the new data is saved in .txt file called tidy.txt
